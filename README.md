@@ -4,7 +4,7 @@
 
 #### Current WIP Projects:
 
-- Johnson Counter
+- Gray code counter and why is it used 
 
 -----
 
